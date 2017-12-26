@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><u>SolsticeContacts</u></string>
+    <string name="action_settings">Settings</string>
+    <string name="string_internet_connection_not_available">Internet Connection Not Available</string>
+    <string name="string_some_thing_wrong">Something went wrong.</string>
+    <string name="string_getting_json_message">Fetching JSON</string>
+    <string name="string_getting_json_title">Please Wait...</string>
+</resources>
