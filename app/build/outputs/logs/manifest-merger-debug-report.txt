@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a56ab673564d9f8fabc9cd28132d7aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5d473d3426bf5f3d2fb3388503915f56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\ee889aa9b673f29aa7fa112a694a8a48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c916ab4bcc6660985f89f5773f8baa99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ecdd33e36754e087c7914fc76f937483\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2162c02ef78ef8e53dc52e155e85296d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\887dafaf458b62648eb345313f86c2a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4411adfa6af9cd5118a4767b0caa128b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\91e76ac9f2dabaecfa8eb7bd25a8dc66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e1f9fc4cbf3b944d55f9e5e0b2bf26fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae69aee742feed56bb66289ea6f12d66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dc88583a0e8cb2e1bcb04c85e864d137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1450fa196bc6c81acc7a940a21efb05\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3585d82d96f35ee6326259e32b5b7b33\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:6:22-73
+application
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:7:5-27:19
+	android:supportsRtl
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.arunabraham.solsticecontactsapp.ui.activity.MainActivity
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:13:13-88
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.arunabraham.solsticecontactsapp.ui.activity.ContactDetail
+ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:label
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml:22:13-89
+uses-sdk
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a56ab673564d9f8fabc9cd28132d7aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a56ab673564d9f8fabc9cd28132d7aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5d473d3426bf5f3d2fb3388503915f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5d473d3426bf5f3d2fb3388503915f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\ee889aa9b673f29aa7fa112a694a8a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\ee889aa9b673f29aa7fa112a694a8a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c916ab4bcc6660985f89f5773f8baa99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c916ab4bcc6660985f89f5773f8baa99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ecdd33e36754e087c7914fc76f937483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ecdd33e36754e087c7914fc76f937483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2162c02ef78ef8e53dc52e155e85296d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2162c02ef78ef8e53dc52e155e85296d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\887dafaf458b62648eb345313f86c2a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\887dafaf458b62648eb345313f86c2a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4411adfa6af9cd5118a4767b0caa128b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4411adfa6af9cd5118a4767b0caa128b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\91e76ac9f2dabaecfa8eb7bd25a8dc66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\91e76ac9f2dabaecfa8eb7bd25a8dc66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e1f9fc4cbf3b944d55f9e5e0b2bf26fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e1f9fc4cbf3b944d55f9e5e0b2bf26fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae69aee742feed56bb66289ea6f12d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae69aee742feed56bb66289ea6f12d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dc88583a0e8cb2e1bcb04c85e864d137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\dc88583a0e8cb2e1bcb04c85e864d137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1450fa196bc6c81acc7a940a21efb05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1450fa196bc6c81acc7a940a21efb05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3585d82d96f35ee6326259e32b5b7b33\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Arun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3585d82d96f35ee6326259e32b5b7b33\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arun\Desktop\SolsticeContactsApp\app\src\main\AndroidManifest.xml
