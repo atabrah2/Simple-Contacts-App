@@ -4,9 +4,6 @@ import android.content.Context;
 import android.net.ConnectivityManager;
 import android.support.annotation.NonNull;
 
-/**
- * @author Pratik Butani
- */
 public class InternetConnection {
 
     /**
